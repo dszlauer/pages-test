@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dszlauer/pages-test.git/static/css/main.584f321a.chunk.css",
-    "main.js": "/dszlauer/pages-test.git/static/js/main.d360c02c.chunk.js",
-    "main.js.map": "/dszlauer/pages-test.git/static/js/main.d360c02c.chunk.js.map",
-    "runtime~main.js": "/dszlauer/pages-test.git/static/js/runtime~main.d83114fc.js",
-    "runtime~main.js.map": "/dszlauer/pages-test.git/static/js/runtime~main.d83114fc.js.map",
-    "static/js/2.b41502e9.chunk.js": "/dszlauer/pages-test.git/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/dszlauer/pages-test.git/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/dszlauer/pages-test.git/index.html",
-    "precache-manifest.e3ff2b2d7657ab294b4444550dd83a14.js": "/dszlauer/pages-test.git/precache-manifest.e3ff2b2d7657ab294b4444550dd83a14.js",
-    "service-worker.js": "/dszlauer/pages-test.git/service-worker.js",
-    "static/css/main.584f321a.chunk.css.map": "/dszlauer/pages-test.git/static/css/main.584f321a.chunk.css.map",
-    "static/media/logo.svg": "/dszlauer/pages-test.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/dszlauer/pages-test/static/css/main.584f321a.chunk.css",
+    "main.js": "/dszlauer/pages-test/static/js/main.268b362f.chunk.js",
+    "main.js.map": "/dszlauer/pages-test/static/js/main.268b362f.chunk.js.map",
+    "runtime~main.js": "/dszlauer/pages-test/static/js/runtime~main.1bade8a8.js",
+    "runtime~main.js.map": "/dszlauer/pages-test/static/js/runtime~main.1bade8a8.js.map",
+    "static/js/2.b41502e9.chunk.js": "/dszlauer/pages-test/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/dszlauer/pages-test/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/dszlauer/pages-test/index.html",
+    "precache-manifest.872137f51fb33ea95e3ba5e9ed78b371.js": "/dszlauer/pages-test/precache-manifest.872137f51fb33ea95e3ba5e9ed78b371.js",
+    "service-worker.js": "/dszlauer/pages-test/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/dszlauer/pages-test/static/css/main.584f321a.chunk.css.map",
+    "static/media/logo.svg": "/dszlauer/pages-test/static/media/logo.5d5d9eef.svg"
   }
 }
